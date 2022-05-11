@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 02 May 2022 22:23:33 GMT and should not be manually modified.
+This log was last generated on Wed, 11 May 2022 20:25:46 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.25.0
+
+Wed, 11 May 2022 20:25:46 GMT
+
+### Minor changes
+
+- Add PoP support for Encrypted Access Tokens #4730 (hemoral@microsoft.com)
+- Bump @azure/msal-common to v6.4.0
 
 ## 2.24.0
 

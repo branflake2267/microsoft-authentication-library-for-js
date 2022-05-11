@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Mon, 02 May 2022 22:23:33 GMT and should not be manually modified.
+This log was last generated on Wed, 11 May 2022 20:25:46 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 6.4.0
+
+Wed, 11 May 2022 20:25:46 GMT
+
+### Minor changes
+
+- Add PoP support for Encrypted Access Tokens #4730 (hemoral@microsoft.com)
 
 ## 6.3.0
 
